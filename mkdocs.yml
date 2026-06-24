@@ -1,0 +1,8 @@
+site_name: My Material Docs
+site_url: https://zuiaidni.github.io/test-material-mkdocs/
+theme:
+  name: material
+  language: zh
+
+  nav:
+  - 首页： index.md
